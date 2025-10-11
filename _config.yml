@@ -1,6 +1,9 @@
 title: Gelli Fields Wiki
 description: A wiki for the game Gelli Fields
-theme: just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: just-the-docs/just-the-docs
 
 url: https://bubbaboogs.github.io/GelliFieldsWiki
 

@@ -1,8 +1,10 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
+gem "jekyll"
+gem "jekyll-seo-tag"
+gem "jekyll-include-cache"
 # gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
 
-gem "just-the-docs"        # always download the latest release
+gem "jekyll-remote-theme"
 
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
