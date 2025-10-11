@@ -1,3 +1,8 @@
+---
+title: Creating a Mod
+layout: default
+---
+
 # Creating a Mod
 
 So, as you probably know if you're on this wiki I make a lot of Gelli Fields mods. It's pretty difficult to figure it all out on your own, so I've compiled a bunch of info to help anyone else make mods (though I doubt anyone will, sadly)

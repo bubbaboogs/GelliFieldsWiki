@@ -1,3 +1,7 @@
+---
+title: Items
+layout: default
+---
 # Items
 
 Gelli Fields has many items, which can often be categorized into four distinct categories:
