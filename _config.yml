@@ -7,6 +7,9 @@ remote_theme: just-the-docs/just-the-docs
 
 url: https://bubbaboogs.github.io/GelliFieldsWiki
 
+#logo: "/assets/images/wiki.png"
+favicon_ico: "/assets/images/favicon.ico"
+
 search_enabled: true
 nav_enabled: true
 color_scheme: dark
@@ -36,3 +39,31 @@ search:
   button: true
   # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
   focus_shortcut_key: 'k'
+
+  # Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/bubbaboogs/GelliFieldsWiki" # the github URL for your repo
+gh_edit_branch: "master" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+
+
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
