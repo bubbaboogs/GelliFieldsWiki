@@ -8,11 +8,6 @@ search_enabled: true
 nav_enabled: true
 color_scheme: dark
 
-remote_theme: just-the-docs/just-the-docs
-plugins:
-  - jekyll-remote-theme
-
-
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2
