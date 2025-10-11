@@ -1,6 +1,7 @@
 ---
 title: Creating a Mod
 layout: default
+parent: Modding
 ---
 
 # Creating a Mod
