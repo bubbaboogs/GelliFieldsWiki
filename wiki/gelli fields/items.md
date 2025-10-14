@@ -7,7 +7,7 @@ parent: Gelli Fields
 <link rel="stylesheet" href="../../assets/css/items.css">
 # Items
 
-Gelli Fields has many items, which can often be categorized into four distinct categories:
+Gelli Fields has 92 total items, which can often be categorized into four distinct categories:
 
 - Crops/Fruits
 - Seeds
