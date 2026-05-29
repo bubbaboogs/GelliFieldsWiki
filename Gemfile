@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem "jekyll"
 gem "jekyll-seo-tag"
 gem "jekyll-include-cache"
+gem "logger"
 # gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
 
 gem "jekyll-remote-theme"
